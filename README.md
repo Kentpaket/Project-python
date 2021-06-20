@@ -1,7 +1,9 @@
 # Project-python
 
-Final project for Python programming class. Prepared by Vladyslav Kriuk (vk 79952)
+Final project for Python programming class. Prepared by Vladyslav Kriuk (vk 79952).
+
 One of the reason to work with this data and analyze stroke reasons is the danger of this disease. According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
+
 The goal of project is to analyze the risk of stroke among people and to build the most accurate predict model which is based on the imput parameters like gender, age, various diseases, and smoking status. Each row in the data provides relevant information about the patient.
 
 Here presented the list of parameter:
