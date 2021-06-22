@@ -20,4 +20,4 @@ Here presented the list of parameter:
 11) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
 12) stroke: 1 if the patient had a stroke or 0 if not --> TARGET VARIABLE 
 
-To start working with this data-set you need to download library packages, which presented at the very beginning of code 
+To start working with this data-set you need to download library packages, which presented at the very beginning of code and downlaoad dataset "stroke.csv"
