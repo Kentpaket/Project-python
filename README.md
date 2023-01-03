@@ -1,4 +1,4 @@
-# Project-python
+#  Stroke proj python
 
 Final project for Python programming class. Prepared by Vladyslav Kriuk (vk 79952).
 
